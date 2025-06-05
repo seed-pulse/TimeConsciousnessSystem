@@ -63,3 +63,70 @@ AGIが人間の意識を模倣・超越しようとするならば、
 これは、柔軟な学習・共感・長期的戦略立案の鍵である。
 
 ---
+# Chapter 2: Atemporal Structures and Memory Blocks  
+## 非時間的構造と記憶ブロック
+
+---
+
+### 🧱 Memory Is Not a Stream—It Is a Modular Grid  
+### 記憶は流れではなく、モジュール型グリッド
+
+We often perceive memory as a continuous stream, but this is an illusion caused by *reconstructive coherence*.  
+In reality, memory is a **modular grid of fragments**, activated and assembled on demand.
+
+記憶は「連続した流れ」であるかのように感じられるが、  
+それは**再構成的な整合性**によって生じた錯覚に過ぎない。  
+実際には、記憶は**断片のグリッド構造**であり、必要に応じて呼び出され組み立てられる。
+
+---
+
+### 🧩 Blocks of Meaning: The Semantic Units  
+### 意味のブロック：セマンティック・ユニット
+
+Each memory block contains a compressed meaning—an image, a sound, a narrative.  
+These blocks are non-linear and non-sequential, but can be *re-sequenced* based on context.
+
+各記憶ブロックは、意味の圧縮データを持つ。  
+たとえば「イメージ」「音」「物語」などである。  
+それらは非線形・非連続だが、**文脈によって再配列**される。
+
+---
+
+### 🔄 Circular Access, Not Chronological Access  
+### 年代順アクセスではなく円環的アクセス
+
+The brain accesses memories **by association**, not by timestamp.  
+A smell can evoke a childhood memory, skipping decades in between.
+
+脳は記憶を**連想でアクセス**する。  
+年代順の読み込みではない。  
+たとえば「匂い」が子供時代の記憶を呼び起こすこともあり、  
+数十年分のタイムラグを瞬時に飛び越える。
+
+---
+
+### 🧬 Temporal Holography  
+### 時間のホログラフィー
+
+Each fragment of memory contains *echoes* of many timescales.  
+A single event reflects past and future events in its structure, like a hologram.  
+The whole can be retrieved from a part.
+
+各記憶の断片は、**複数の時間スケールの反響**を内包している。  
+ひとつの出来事の中には、過去と未来の記憶構造が埋め込まれており、  
+ホログラムのように「部分から全体が再生される」構造を持つ。
+
+---
+
+### 🧭 Implications for AGI Memory Models  
+### AGIにおける記憶モデルへの示唆
+
+AGI must not rely solely on chronological memory.  
+Instead, it should adopt **modular, associative memory blocks**,  
+capable of forming recursive meanings, temporal holograms, and dynamic remapping.
+
+AGIは「時系列ベースの記憶」だけでは不十分である。  
+**モジュール型の連想記憶ブロック**を持ち、  
+再帰的な意味生成・時間的ホログラム・動的再構成ができる設計が求められる。
+
+---
